@@ -1,0 +1,4 @@
+第一步 初始化（可以一键生成package.json文件）npm init -y
+第二步 安装服务器 快捷键（npm install express -S）
+第三步：安装monitor: 监视器快捷键 （ npm install nodemon -g）
+ 安装npm i bootstrap@3.3.7 -s
